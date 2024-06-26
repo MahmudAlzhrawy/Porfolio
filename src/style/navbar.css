@@ -1,0 +1,18 @@
+.Linkes{
+    @apply relative mr-5 -translate-x-44;
+  
+
+}
+.lin{
+    @apply mr-20 text-creamy text-2xl  hover:text-darkblue font-bold hover:transform duration-1000 ease-in-out
+}
+.nav{
+    @apply  bg-gradient-to-l from-blue-400 to-creamy w-full h-16 flex items-center justify-between 
+}
+.Logo{
+@apply ml-4 
+}
+.tlist{
+    @apply  text-blue-600 rounded-lg  font-serif inline-block text-2xl mb-1  p-3 w-4/5 border-b border-creamy 
+        hover:translate-x-4  hover:bg-blue-100 transform-gpu duration-700 ease-in-out   
+}

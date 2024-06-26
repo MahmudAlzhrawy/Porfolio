@@ -1,0 +1,9 @@
+.content{
+    @apply w-full bg-gradient-to-r from-blue-800 to-creamy   
+}
+.left{
+    @apply  text-creamy   
+}
+.right{
+     
+}

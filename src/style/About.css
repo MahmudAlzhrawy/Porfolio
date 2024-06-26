@@ -1,0 +1,27 @@
+
+.back{
+    background-image: url("../assets/images/aboutback.jpeg");
+    @apply bg-cover mt-0 ;
+    height: 400px;
+    
+}
+.edu{
+    @apply relative bg-blue-200 w-4/5 mx-auto pt-2 pb-6 shadow-md shadow-darkblue mb-20
+}
+.h2{
+    @apply text-5xl font-serif font-extrabold text-creamy text-center my-5
+}
+.list{
+    @apply text-xl font-semibold text-darkblue  mb-20
+}
+.sp{
+    @apply inline-block w-4 h-4 rounded-full bg-blue-800 
+}
+
+.ul{
+    border:4px solid whitesmoke;
+    border-right: none;
+}
+.lis{
+    @apply text-xl font-semibold text-cyan-700 mb-5
+}

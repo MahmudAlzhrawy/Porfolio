@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +14,42 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.btn{
+  background-color: #1448b9;
+  color:#FFFDD0;
+  border-radius:5px;
+  padding:8px 8px;
+  transition: all .9s ease-in-out;
+}
+.btn:hover{
+  transform: scale(1.1);
+  transition:all .9s ease-in-out;
+}
+::-webkit-scrollbar {
+  width: 20px; /* عرض شريط التمرير العمودي */
+  height: 12px; /* ارتفاع شريط التمرير الأفقي */
+}
+
+/* تخصيص الخلفية لشريط التمرير */
+::-webkit-scrollbar-track {
+  background: #aec6f3; /* لون الخلفية */
+  border-radius: 10px; /* زوايا مستديرة */
+}
+
+/* تخصيص المقبض (thumb) لشريط التمرير */
+::-webkit-scrollbar-thumb {
+  background: #02164d; /* لون المقبض */
+  border-radius: 5px; /* زوايا مستديرة */
+}
+
+/* تغيير لون المقبض عند التحويم */
+::-webkit-scrollbar-thumb:hover {
+  background: #063285; /* لون المقبض عند التحويم */
+}
+.Linkes{
+  display:none ;
+}
+.group{
+  display:none;
 }

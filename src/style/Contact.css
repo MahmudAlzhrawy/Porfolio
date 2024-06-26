@@ -1,0 +1,9 @@
+.spco{
+    @apply text-blue-900 font-serif text-2xl;
+}
+.ico{
+    @apply  text-blue-600 hover:scale-105 hover:text-blue-800 transform-gpu duration-700 ease-in-out
+}
+.prg{
+    @apply text-creamy font-serif 
+}

@@ -1,0 +1,71 @@
+[
+{
+    "id":"1",
+    "title" :"E-commerce",
+    "image" :"1.jpeg",
+    "description":"this is E-commerece ,which you can shop any products from it do this step you should first create an account and after this you can any products to your cart , and it find a page fro delevery which has access on it is the owner of the  e-commerce  who can see all orders and details about each order ",
+    "Techno": [ "Html","Js", "Css","React","Redux ToolKit","Tailwind Css","Firebase Auth","firestore" ],
+    "Url":"https://e-commerce-react-5ced2.web.app"
+},
+{
+    "id":"2",
+    "title" :"Mail Resto",
+    "image" :"resto.jpeg",
+    "description":"This is restorant website for show the different kinds of foods just show foods   ",
+    "Techno": [ "Html","Js", "Css" ],
+    "Url":"https://mahmudalzhrawy.github.io/Mail/"
+
+},
+{
+    "id":"3",
+    "title" :"Template",
+    "image" :"temp.jpeg",
+    "description":"Tis is the template which i do it while i was learning with Osama Elzero",
+    "Techno": [ "Html","Js", "Css"],
+    "Url":"https://mahmudalzhrawy.github.io/temp/"
+},
+{
+    "id":"4",
+    "title" :"Calculator",
+    "image" :"calc.jpeg",
+    "description":"Very simple calculator which can add , subtract ,multiplication and devision ",
+    "Techno": [ "Html","Js", "Css" ],
+    "Url":"https://github.com/MahmudAlzhrawy/calc"
+},
+{
+    "id":"5",
+    "title" :"Crud",
+    "image" :"ceud.jpeg",
+    "description":"this project i do it to practice on dealing with local storage ",
+    "Techno": [ "Html","Js", "Css","Vue"],
+    "Url":"https://github.com/MahmudAlzhrawy/Crud"
+
+},
+{
+    "id":"6",
+    "title" :"Parcking",
+    "image" :"garage.jpeg",
+    "description":"This project is a system for a parking lot, where a specific area has been determined for this parking lot, which is 100 square   meters, and the space for the machines that can be parked has been determined, as well asorganizing the process of entry and exit of how much space this space can accommodate in terms of machines.",
+    "Techno": [ "Java" ],
+    "Url":" https://github.com/MahmudAlzhrawy/Parcking"
+
+},
+{
+    "id":"7",
+    "title" :"Kids game",
+    "image" :"game.jpeg",
+    "description":"project description",
+    "Techno": [ "Windows form","Desktop","C#","SQL Server"],
+    "Url":" https://github.com/MahmudAlzhrawy/KidsGame"
+},
+{
+    "id":"8",
+    "title" :"Blog & Task",
+    "image" :"blog.jpeg",
+    "description":"project description",
+    "Techno": [ "MVC","C#","SQL Server","Bootstrap"],
+    "Url":" https://github.com/MahmudAlzhrawy/Blog-List-MVC-"
+}
+
+
+]
